@@ -1,0 +1,26 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>很抱歉，您访问的页面不存在</title>
+<style>
+*{ margin:0 auto;}
+body{ background:#f0f0f0; padding-top:50px;}
+.div{ width:745px; height:333px; background:url(/404_bg.jpg) no-repeat center; position:relative;}
+.span1{ font-size:14px; color:#545454; display:block; width:300px; height:60px; position:absolute; top:45px; left:228px; line-height:24px;}
+.span2{ width:300px;position:absolute; top:272px; left:230px; font-size:12px; color:#545454; }
+.span2 a{ font-size:45px; text-decoration:none; color:#f60b45;background: #bde7c2}
+.span2 a:hover{ color:#545454; text-decoration:none;}
+</style>
+<meta http-equiv="refresh" content="20;url=http://www.qhdxw.com">
+</head>
+
+<body>
+<div class="div">
+   <!-- <span class="span1">1.请检查您输入的地址是否正确<br />
+	2.如果您不能确认您输入的网址,可以返回首页</span> -->
+<span class="span2"><a href="http://www.qhdxw.com">返回首页</a> 
+	</span>
+</div>
+<script type="text/javascript" src="http://www.qhdxw.com/style/js/indexp.js"></script>
+</body>
+</html>

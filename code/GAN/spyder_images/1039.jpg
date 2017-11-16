@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><META content="IE=5.0000" http-equiv="X-UA-Compatible">
+<TITLE>页面没有找到</TITLE>
+<META content="text/html; charset=gb2312" http-equiv=Content-Type>
+<META name=GENERATOR content="MSHTML 8.00.7601.17622"></HEAD>
+<BODY background="/images/tz-001.gif">
+<SCRIPT type=text/javascript>
+//<!--
+function isIFrameSelf(){try{if(window.top ==window){return false;}else{return true;}}catch(e){return true;}}
+function toHome(){ if(!isIFrameSelf()){ window.location.href="http://www.taiwan.cn/";}}
+window.setTimeout("toHome()",5000);
+//-->
+</SCRIPT>
+
+<TABLE border=0 cellSpacing=0 cellPadding=0>
+  <TBODY>
+  <TR>
+    <TD height=134></TD></TR></TBODY></TABLE>
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=544 align=center height=157>
+  <TBODY>
+  <TR vAlign=center align=middle>
+    <TD background="/images/tz-002.gif">
+      <TABLE border=0 cellSpacing=0 cellPadding=0>
+        <TBODY>
+        <TR>
+          <TD style="PADDING-LEFT: 80px; PADDING-TOP: 10px"><STRONG>页面没有找到 
+            5秒钟之后将会带您进入网站首页!</STRONG></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR></BODY></HTML>

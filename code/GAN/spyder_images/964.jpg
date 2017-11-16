@@ -1,0 +1,330 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>windows7系统之家</title>
+<meta name="keywords" content="" />
+<meta name="description" content="Win7之家是国内最大的Win7系统下载站,提供Win7纯净版,Win7旗舰版,ghost win7等Win7 32位系统下载及Win7 64位系统下载.更多Windows7旗舰版,Ghost Win7 sp1,Win7装机版敬请关注Win7之家官网。" />
+<link href="/templets/default/style/softk.css" type="text/css" rel="stylesheet" />
+<link href="/static/css/basic.css" rel="stylesheet" type="text/css">
+<link href="/templets/default/style/basic.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/templets/default/js/share.js?ver=0411" ></script>
+</head>
+
+<body>
+<style>
+#image-preview{position:absolute;z-index:1000;border:2px solid #61C2E3;padding:5px;background-color:#FAFAFA;}
+.ZtCotent{ display:none; }
+.box{ display:none; }
+.font1{ display:none; }
+.friendlink{ display:none; }
+.footer{ height:225px; }
+
+#ad_top_right{ display:none; }
+#ad_top_left{ display:none; }
+
+</style>
+<script src="/static/js/jquery.1.7.2.min.js"></script>
+
+<!--[if lte IE 8]>
+<script src="http://api.html5media.info/1.1.6/html5media.min.js"></script>
+<style>
+.player object{
+	width:700px !important;
+	height:530px !important;
+}
+.player span{
+	height:530px !important;
+}
+</style>
+<![endif]-->
+<!-- logo部分--> 
+
+<a name="top"></a>
+<div class="hd_top">
+  <div class="wd"> <span><a href="/">Win7之家</a> - 专注于Win7旗舰版系统下载！</span> <span class="topnav"> <a href="/">首页</a> ┆ <a href="/sitemap.html" target="_blank">网站地图</a> ┆ <a href="/xiazai" target="_blank">软件下载</a> ┆ <a href="/Win7key" target="_blank">Win7激活工具</a> ┆ <a href="/help/win7.html" style="color:red" target="_blank">如何安装系统？</a> ┆ <a href="javascript:void(0)" onclick="shoucang(document.title,window.location)" rel="nofollow" >加入收藏</a> </span> </div>
+</div>
+<div class="header_top">
+  <div class="logo"><a href="http://www.windows7en.com"><img src="/static/images/logo.gif" alt="Win7之家" title="Win7之家" height="56" width="254" /></a></div>
+  <div class="searchbox">
+    <form target="_blank">
+      <div class="search_inp">
+        <input id="bdcsMain" class="searchTextbox" size="24" name="q" accesskey="s" autosave="baidu" results="8" autocomplete="off" />
+        <!--<input type="hidden" name="s" value="3808032924725922061">-->
+      </div>
+      <button id="gm_act_sbtn" type="submit">搜索</button>
+    </form>
+    <br />
+    <br />
+    <div>
+      <style type="text/css"> .font1{ font-size:12px; } </style>
+    </div>
+    <div class="font1">热门搜索：<a href="http://www.windows7en.com/Win7/18563.html" target="_blank" class="font1">硬盘怎么分区</a> <a href="http://www.windows7en.com/Win7/19190.html" target="_blank" class="font1">电脑蓝屏怎么办</a> <a href="http://www.windows7en.com/Win7/18038.html" target="_blank" class="font1">电脑没声音怎么办</a> </div>
+  </div>
+</div>
+
+<!-- 导航开始-->
+
+<div id="header_nav">
+  <ul>
+    <li class="fcolor"><a   href='/' title="Win7之家">Win7之家</a></li>
+    
+    <li class="fcolor"><a target='_blank' href="/ylmfwin7/" 
+            title="雨林木风Win7">雨林木风Win7</a></li>
+    
+    <li class="fcolor"><a target='_blank' href="/sdjswin7/" 
+            title="深度技术Win7系统">深度技术Win7</a></li>
+    
+    <li class="fcolor"><a target='_blank' href="/zj/" 
+            title="系统之家Win7系统">系统之家Win7</a></li>
+    
+    <li class="fcolor"><a target='_blank' href="/windows7/" 
+            title="win7系统下载系统">win7系统下载</a></li>
+    
+    <li class="fcolor"><a target='_blank' href="/win8/" 
+            title="win8系统系统">win8系统</a></li>
+    
+    <li class="fcolor"><a target='_blank' href="/win10/" 
+            title="Win10系统下载">Win10系统下载</a></li>
+    
+    <li class="fcolor"><a target='_blank' href="/jiaocheng/yjcz/" 
+            title="一键重装教程">一键重装教程</a></li>
+    
+    <li class="fcolor"><a target='_blank' href="/jiaocheng/" 
+            title="系统教程">系统教程</a></li>
+    
+	<li class="fcolor"><a href="http://www.windows7en.com/Win7Down/" target='_blank' title="系统推荐" >系统推荐</a></li>
+  </ul>
+</div>
+
+<!-- 导航结束-->
+
+<div style="width:1000px;margin:5px auto;display:block; overflow:hidden;">
+  <div style="width:498px;height:auto;margin:0 auto;overfloaw:hiddern;float:right;"> 
+    <a href="http://chongzhuang.windowszj.com" target="_blank" rel="nofollow" id='ad_top_right'><img src="http://www.windows7en.com/templets/default/images/logo/xtzj.gif" width="500" height="60" border="0" /></a></div>
+  <div style="width:498px;height:auto;margin:0 auto;overfloaw:hiddern;float:left;"> <a href="http://www.xiaobaixitong.com/" target="_blank" rel="nofollow" id='ad_top_left'><img src="http://pic.windows7en.com/160805/31-160P5004509403.gif"></a></div>
+</div>
+
+<dl class="con" style=" padding-top:10px;">
+  <dt>
+    <a href='http://www.windows7en.com'><img alt="windows7" src="/uploads/170209/35-1F2091R622531.png"></a>
+    <div class="content">
+    <h1>windows7系统之家</h1>
+    <div class="nr">
+      <p>　Win7之家是国内最大的Win7系统下载站,提供Win7纯净版,Win7旗舰版,ghost win7等Win7 32位系统下载及Win7 64位系统下载.更多Windows7旗舰版,Ghost Win7 sp1,Win7装机版敬请关注Win7之家官网。</p>
+    </div>
+    <div id="bdshare"> <span>分享到:</span>
+      <div class="bdsharebuttonbox"><a href="#" class="bds_more" data-cmd="more"></a><a title="分享到QQ空间" href="#" class="bds_qzone" data-cmd="qzone"></a><a title="分享到新浪微博" href="#" class="bds_tsina" data-cmd="tsina"></a><a title="分享到腾讯微博" href="#" class="bds_tqq" data-cmd="tqq"></a><a title="分享到人人网" href="#" class="bds_renren" data-cmd="renren"></a><a title="分享到微信" href="#" class="bds_weixin" data-cmd="weixin"></a></div>
+      <script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"32"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script> 
+    </div>
+  </dt>
+  <dd class="list clearfix">
+    <ul class="clearfix">
+      <div class="ZtCotent mb10">
+  <div class="idx-title idx-title2 mb5"> <span class="title">默认节点</span></div>
+	<ul class="clearfix">
+    <li>
+	<div class="info_list_img"><a href="/zj/zj32/38046.html" target="_blank" id="list_img"><img data-bd-imgshare-binded="1" src="/uploads/allimg/170914/31_091411024160Q.png" alt=" 系统之家win7旗舰版32位系统下载 v1709 " title=" 系统之家win7旗舰版32位系统下载 v1709 "></a></div>
+	<h3><a href="/zj/zj32/38046.html" target="_blank" title=" 系统之家win7旗舰版32位系统下载 v1709 "><b> 系统之家win7旗舰版32位系统下载 v1709 </b></a></h3>
+	<p>系统之家win7旗舰版是非常受用户欢迎的win7旗舰版系统，本次更新系统之家win7旗舰版32位采用全新的界面，功能更加强大，驱动更加齐全，满足不同用户对系统的不同需求。...</p>
+	<p class="djinfo">发布时间：2017-09-14     编辑：yang    人气：80521    来源：Win7之家</p><a href="/zj/zj32/38046.html" rel="nofollow" target="_blank" class="djlook1">点击查看</a>
+</li>
+<li>
+	<div class="info_list_img"><a href="/zj/zj64/38045.html" target="_blank" id="list_img"><img data-bd-imgshare-binded="1" src="/uploads/allimg/170914/31_09141100345647.png" alt=" 系统之家win7旗舰版64位系统下载 v1709 " title=" 系统之家win7旗舰版64位系统下载 v1709 "></a></div>
+	<h3><a href="/zj/zj64/38045.html" target="_blank" title=" 系统之家win7旗舰版64位系统下载 v1709 "><b> 系统之家win7旗舰版64位系统下载 v1709 </b></a></h3>
+	<p>系统之家win7旗舰版是非常受用户欢迎的win7旗舰版系统，本次更新系统之家win7旗舰版32位采用全新的界面，功能更加强大，驱动更加齐全，满足不同用户对系统的不同需求。...</p>
+	<p class="djinfo">发布时间：2017-09-14     编辑：yang    人气：900000    来源：Win7之家</p><a href="/zj/zj64/38045.html" rel="nofollow" target="_blank" class="djlook1">点击查看</a>
+</li>
+<li>
+	<div class="info_list_img"><a href="/Win7Down/38038.html" target="_blank" id="list_img"><img data-bd-imgshare-binded="1" src="/uploads/allimg/170914/31_091410515543A.png" alt=" 雨林木风win7旗舰版32位系统下载 v1709 " title=" 雨林木风win7旗舰版32位系统下载 v1709 "></a></div>
+	<h3><a href="/Win7Down/38038.html" target="_blank" title=" 雨林木风win7旗舰版32位系统下载 v1709 "><b> 雨林木风win7旗舰版32位系统下载 v1709 </b></a></h3>
+	<p>雨林木风win7旗舰版系统采用最新win7旗舰版母盘进行封装，使用独特的优化技术使得系统流畅，稳定，安全性高。欢迎广大用户下载使用。...</p>
+	<p class="djinfo">发布时间：2017-09-14     编辑：yang    人气：320000    来源：Win7之家</p><a href="/Win7Down/38038.html" rel="nofollow" target="_blank" class="djlook1">点击查看</a>
+</li>
+<li>
+	<div class="info_list_img"><a href="/Win7Down/38037.html" target="_blank" id="list_img"><img data-bd-imgshare-binded="1" src="/uploads/allimg/170914/31_09141049554E7.png" alt=" 雨林木风win7旗舰版64位系统下载 v1709 " title=" 雨林木风win7旗舰版64位系统下载 v1709 "></a></div>
+	<h3><a href="/Win7Down/38037.html" target="_blank" title=" 雨林木风win7旗舰版64位系统下载 v1709 "><b> 雨林木风win7旗舰版64位系统下载 v1709 </b></a></h3>
+	<p>雨林木风win7旗舰版系统采用最新win7旗舰版母盘进行封装，使用独特的优化技术使得系统流畅，稳定，安全性高。欢迎广大用户下载使用。...</p>
+	<p class="djinfo">发布时间：2017-09-14     编辑：yang    人气：620850    来源：Win7之家</p><a href="/Win7Down/38037.html" rel="nofollow" target="_blank" class="djlook1">点击查看</a>
+</li>
+<li>
+	<div class="info_list_img"><a href="/Win7Down/38036.html" target="_blank" id="list_img"><img data-bd-imgshare-binded="1" src="/uploads/allimg/170914/31_09141041241941.png" alt=" 深度技术win7旗舰版32位系统下载 v1709 " title=" 深度技术win7旗舰版32位系统下载 v1709 "></a></div>
+	<h3><a href="/Win7Down/38036.html" target="_blank" title=" 深度技术win7旗舰版32位系统下载 v1709 "><b> 深度技术win7旗舰版32位系统下载 v1709 </b></a></h3>
+	<p>深度技术ghost win7 32位装机版系统具有更安全、更稳定、更人性化等特点。集成最常用的装机软件，集成最全面的硬件驱动，精心挑选的系统维护工具，加上深度技术独有人性化的设计。...</p>
+	<p class="djinfo">发布时间：2017-09-14     编辑：yang    人气：50000    来源：Win7之家</p><a href="/Win7Down/38036.html" rel="nofollow" target="_blank" class="djlook1">点击查看</a>
+</li>
+<li>
+	<div class="info_list_img"><a href="/Win7Down/38035.html" target="_blank" id="list_img"><img data-bd-imgshare-binded="1" src="/uploads/allimg/170914/31_0914103QXL0.png" alt=" 深度技术win7旗舰版64位系统下载 v1709 " title=" 深度技术win7旗舰版64位系统下载 v1709 "></a></div>
+	<h3><a href="/Win7Down/38035.html" target="_blank" title=" 深度技术win7旗舰版64位系统下载 v1709 "><b> 深度技术win7旗舰版64位系统下载 v1709 </b></a></h3>
+	<p>深度技术ghost win7 x64 装机版系统具有更安全、更稳定、更人性化等特点。集成最常用的装机软件，集成最全面的硬件驱动，精心挑选的系统维护工具，加上深度技术独有人性化的设计。...</p>
+	<p class="djinfo">发布时间：2017-09-14     编辑：yang    人气：470127    来源：Win7之家</p><a href="/Win7Down/38035.html" rel="nofollow" target="_blank" class="djlook1">点击查看</a>
+</li>
+<li>
+	<div class="info_list_img"><a href="/xb/xb32/38052.html" target="_blank" id="list_img"><img data-bd-imgshare-binded="1" src="/uploads/allimg/170914/31_0914113113HS.png" alt=" 小白系统win7旗舰版32位系统下载 v1709 " title=" 小白系统win7旗舰版32位系统下载 v1709 "></a></div>
+	<h3><a href="/xb/xb32/38052.html" target="_blank" title=" 小白系统win7旗舰版32位系统下载 v1709 "><b> 小白系统win7旗舰版32位系统下载 v1709 </b></a></h3>
+	<p>小白系统是小白一键重装工具系列产品中的其中一款，根据部分用户想手动安装系统的需求定制而成。小白系统纯净，安全，无毒，适合电脑小白用户使用。有需要的朋友可以下载使用...</p>
+	<p class="djinfo">发布时间：2017-09-14     编辑：yang    人气：108    来源：Win7之家</p><a href="/xb/xb32/38052.html" rel="nofollow" target="_blank" class="djlook1">点击查看</a>
+</li>
+<li>
+	<div class="info_list_img"><a href="/xb/xb64/38051.html" target="_blank" id="list_img"><img data-bd-imgshare-binded="1" src="/uploads/allimg/170914/31_091411291S322.png" alt=" 小白系统win7旗舰版64位系统下载 v1709 " title=" 小白系统win7旗舰版64位系统下载 v1709 "></a></div>
+	<h3><a href="/xb/xb64/38051.html" target="_blank" title=" 小白系统win7旗舰版64位系统下载 v1709 "><b> 小白系统win7旗舰版64位系统下载 v1709 </b></a></h3>
+	<p>小白系统是小白一键重装工具系列产品中的其中一款，根据部分用户想手动安装系统的需求定制而成。小白系统纯净，安全，无毒，适合电脑小白用户使用。有需要的朋友可以下载使用...</p>
+	<p class="djinfo">发布时间：2017-09-14     编辑：yang    人气：467937    来源：Win7之家</p><a href="/xb/xb64/38051.html" rel="nofollow" target="_blank" class="djlook1">点击查看</a>
+</li>
+<li>
+	<div class="info_list_img"><a href="/Win7Down/38050.html" target="_blank" id="list_img"><img data-bd-imgshare-binded="1" src="/uploads/allimg/170914/31_09141121424549.png" alt="电脑公司Win7纯净版32位系统下载 v1709" title="电脑公司Win7纯净版32位系统下载 v1709"></a></div>
+	<h3><a href="/Win7Down/38050.html" target="_blank" title="电脑公司Win7纯净版32位系统下载 v1709"><b>电脑公司Win7纯净版32位系统下载 v1709</b></a></h3>
+	<p>电脑公司win7系统是非常老牌的电脑操作系统，自从发布到现在一直受到广大用户的喜爱，本次更新主要对驱动和常用软件进行了更新，软件采用自选形式，更加的人性化，欢迎大家下载...</p>
+	<p class="djinfo">发布时间：2017-09-14     编辑：yang    人气：58    来源：Win7之家</p><a href="/Win7Down/38050.html" rel="nofollow" target="_blank" class="djlook1">点击查看</a>
+</li>
+<li>
+	<div class="info_list_img"><a href="/Win7Down/38049.html" target="_blank" id="list_img"><img data-bd-imgshare-binded="1" src="/uploads/allimg/170914/31_0914112005K27.png" alt="电脑公司Win7纯净版64位系统下载 v1709" title="电脑公司Win7纯净版64位系统下载 v1709"></a></div>
+	<h3><a href="/Win7Down/38049.html" target="_blank" title="电脑公司Win7纯净版64位系统下载 v1709"><b>电脑公司Win7纯净版64位系统下载 v1709</b></a></h3>
+	<p>电脑公司win7系统是非常老牌的电脑操作系统，自从发布到现在一直受到广大用户的喜爱，本次更新主要对驱动和常用软件进行了更新，软件采用自选形式，更加的人性化，欢迎大家下载...</p>
+	<p class="djinfo">发布时间：2017-09-14     编辑：yang    人气：171    来源：Win7之家</p><a href="/Win7Down/38049.html" rel="nofollow" target="_blank" class="djlook1">点击查看</a>
+</li>
+			
+	</ul>
+</div>	
+            
+    </ul>
+  </dd>
+  <div class="dows">
+    <div class="zxxiazai">
+      <h2><strong>最新系统下载</strong><span><a href="/Win7Down/" target="_blank">更多</a></span></h2>
+      <div class="sffre"><a href='/zj/zj32/38046.html'><font color='#FF0000'>系统之家win7旗舰版32位系统下载 v1709</font></a></div>
+      <div class="ioekgs"><a href="/zj/zj32/38046.html"><img src="/uploads/allimg/170914/31_091411024160Q.png" width="120" height="90" /></a>
+        <p>系统之家win7旗舰版是非常受用户欢迎的win7旗舰版系统，本次更新系统之家win7旗舰版32位采用全新的界面，功能更加强大，驱动更加齐全，满足不同用户对系统的不同需求。...<br />
+          <a href="/zj/zj32/38046.html" target="_blank" style="color:#FF6600"> >>阅读全部</a> </p>
+      </div>
+
+      <ul>
+        <p><span>17-09-14</span><a href='/zj/zj32/38046.html'><font color='#FF0000'>系统之家win7旗舰版32位系统下载 v1709</font></a></p>
+<p><span>17-09-14</span><a href='/zj/zj64/38045.html'><font color='#FF0000'>系统之家win7旗舰版64位系统下载 v1709</font></a></p>
+<p><span>17-09-14</span><a href='/Win7Down/38038.html'><font color='#FF6633'>雨林木风win7旗舰版32位系统下载 v1709</font></a></p>
+<p><span>17-09-14</span><a href='/Win7Down/38037.html'><font color='#FF6633'>雨林木风win7旗舰版64位系统下载 v1709</font></a></p>
+<p><span>17-09-14</span><a href='/Win7Down/38036.html'><font color='#0000FF'>深度技术win7旗舰版32位系统下载 v1709</font></a></p>
+<p><span>17-09-14</span><a href='/Win7Down/38035.html'><font color='#0000FF'>深度技术win7旗舰版64位系统下载 v1709</font></a></p>
+
+      </ul>
+    </div>
+    <div class="xitjia">
+      <h2><strong>系统教程</strong><span><a href="/jiaocheng/" target="_blank">更多</a></span></h2>
+      <ul>
+        <p><a href='/jiaocheng/yjcz/38344.html'>小编告诉你们什么一键重装系统软件好</a></p>
+<p><a href='/jiaocheng/yjcz/38341.html'>电脑如何用软件重装系统</a></p>
+<p><a href='/jiaocheng/yjcz/38338.html'>有没有一键重装系统的软件呢?</a></p>
+<p><a href='/jiaocheng/yjcz/38335.html'>用什么重装系统软件比较好</a></p>
+<p><a href='/uflash/38333.html'>详细教你u盘格式化</a></p>
+<p><a href='/jiaocheng/38332.html'>教你电脑还原internet explorer的工具</a></p>
+<p><a href='/jiaocheng/37924.html'>小编教您教程怎么打开隐藏文件</a></p>
+<p><a href='/uflash/37969.html'>小编教您phoenix  bios设置</a></p>
+<p><a href='/uflash/37957.html'>小编教您如何刷bios</a></p>
+<p><a href='/jiaocheng/37971.html'>小编教您怎么解决笔记本开机黑屏</a></p>
+<p><a href='/uflash/37965.html'>小编教您U盘启动盘制作</a></p>
+<p><a href='/uflash/37959.html'>小编教您电脑为什么会蓝屏</a></p>
+<p><a href='/uflash/37931.html'>小编教您手机无法连接电脑怎么处理</a></p>
+<p><a href='/jiaocheng/37956.html'>小编教您电脑磁盘清理</a></p>
+<p><a href='/uflash/37929.html'>小编教您什么原因导致电脑开机蓝屏</a></p>
+<p><a href='/uflash/37932.html'>小编教您手机无法连接电脑怎么处理</a></p>
+<p><a href='/uflash/37927.html'>小编教您如何刷bios教程</a></p>
+<p><a href='/uflash/37922.html'>小编教您电脑经常蓝屏是什么原因</a></p>
+<p><a href='/jiaocheng/yjcz/38330.html'>一键重装系统软件使用方法</a></p>
+<p><a href='/uflash/38329.html'>u盘被写保护怎么解除安装方法</a></p>
+<p><a href='/jiaocheng/38328.html'>教你安装win7系统</a></p>
+<p><a href='/jiaocheng/yjcz/38324.html'>小编告诉你一键重装系统哪个好</a></p>
+<p><a href='/jiaocheng/yjcz/38323.html'>一键重装系统xp纯净版教程</a></p>
+<p><a href='/jiaocheng/yjcz/38322.html'>32位系统一键重装64位教程</a></p>
+<p><a href='/jiaocheng/yjcz/38321.html'>360一键重装系统安装教程</a></p>
+<p><a href='/jiaocheng/yjcz/38320.html'>一键系统重装图文教程</a></p>
+
+      </ul>
+    </div>
+  </div>
+  <dd class="box"> <b><a href="">更多+</a>合集推荐</b> <span class="prev">prev</span> <span class="next">next</span>
+    <div class="img-list">
+      <ul>
+        <li><a href="/special/arc-25030.html"><img src="/images/defaultpic.gif" /><s></s><u>音乐播放器</u></a></li>
+<li><a href="/special/arc-24983.html"><img src="/uploads/150805/17-150P51049213A.jpg" /><s></s><u>Office激活工具</u></a></li>
+
+      </ul>
+    </div>
+</dl>
+﻿<!-- 友情连接-->
+
+<div class="friendlink">
+  <div class="friendlink_title">
+    <h4><b>友情链接</b></h4>
+  </div>
+   </div>
+
+<!-- 底部-->
+
+<div style="clear:both;"></div>
+<div class="footer">
+  <div class="footer_list">
+    <div class="footer_img"><img src="/static/images/ft_bg.png" title="底部图片" alt="底部图片"></div>
+    <div class="footer_info">
+      <p>     <a href="/about.html">关于我们</a>   <a href="/partner.html">商务合作</a>   <a href="/copyright.html">版权声明</a>   <a href="/sitemap.html">网站地图</a>   <a href="/sitemap.xml" target="_blank">XML</a>   </p>
+      </br>
+      <p> <a href="http://www.windows7en.com" title="Win7之家">Win7之家</a>   <a href="http://www.windows7en.com/Win7Down/" title="Windows7系统下载">Windows7系统下载</a>   <a href="http://www.windows7en.com/sdjswin7/" title="深度win7系统">深度win7系统</a>   <a href="http://www.windows7en.com/ylmfwin7/" title="雨林木风win7系统" >雨林木风win7系统</a>   <a href="http://www.windows7en.com/luobowin7/" title="萝卜家园win7系统">萝卜家园win7系统</a>   <a href="http://www.windows7en.com/dngswin7/" title="电脑公司win7系统" >电脑公司win7系统</a>   </p>
+      </br>
+      <p>Win7之家竭诚为广大Win7爱好者提供最优质的服务，如对Win7之家有任何投诉或建议，请与管理员联系.</p>
+      </br>
+      <p class="tongji">Copyright @ 2008-2016 <a href="http://www.windows7en.com" title="Win7之家">www.windows7en.com</a> . 闽ICP备15001027号-1 </p>
+    </div>
+  </div>
+</div>
+<script src="/static/js/jquery.1.7.2.min.js"></script> 
+<script>
+
+$(document).ready(function(){
+
+  $("#header_nav li").last().find("a").css("border-right","none");
+
+
+
+$(window).scroll(function(){
+
+if ($(window).scrollTop()>100){
+
+$("#scrolltop").fadeIn(200);
+
+}
+
+else
+
+{
+
+$("#scrolltop").fadeOut(200);
+
+}
+
+});
+
+  
+
+$("#scrolltop").click(function(){
+
+$('body,html').animate({scrollTop:0},500);
+
+return false;
+
+});
+
+
+
+});
+
+</script>
+<div style="position:fixed; bottom:80px;display:none;right:50px;" id="scrolltop" > <img style="cursor:pointer" src="/static/images/top.png" alt="返回顶部" title="返回顶部"> </div>
+
+<!--百度分享--> 
+<script src="/statistics/stats.js"></script> 
+<!----> 
+<script type="text/javascript" src="/templets/default/js/jquery-min.js"></script> 
+<script type="text/javascript" src="/templets/default/js/softk.js"></script>
+</body>
+</html>
